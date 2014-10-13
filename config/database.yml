@@ -4,7 +4,7 @@ production:
   database: sampleapp
   pool: 5
   username: panda3
-  password: sampleapp3
+  password: sampleapp
 
 
 development:
