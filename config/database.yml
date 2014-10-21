@@ -10,7 +10,7 @@ production:
 development:
   adapter: postgresql
   encoding: unicode
-  database: sampleapp
+  database: sampleapp_development
   pool: 5
   username: panda3
   password: sampleapp
@@ -18,7 +18,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: sampleapp
+  database: sampleapp_test
   pool: 5
   username: panda3
   password: sampleapp
